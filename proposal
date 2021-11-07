@@ -1,0 +1,40 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Gonki (racing in Russian)
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+An endless arcade video game of a car that the user controls and has to avoid obstacles.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The software will run a game that moves the objects (rocks or trees), to which the user's car needs to avoid in order to live longer to increase their score. So the score is based on how long they live, and the game will increase in difficulty the farther the player gets in the game. The car will be on either grass (they move slower) or on a race track (move faster. If possible, we'd like to add power ups that the user can obtain and this can allow the user to be invincible or gain double the points for a period of time. It will also include other cars that will continue to move off screen as well as a way to "race" them. It's all executed using pygame.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+name: Nick Nirenberg
+email: tum91588@temple.edu.
+TA: Joanne Arnold Nichols
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+The score increases overtime and the player will encounter a rock they need to avoid, otherwise they lose. All of which happens just on grass.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Everything above and the code can figure out if the player's car is on a race track or a grass and gain powerups as well. Multiple obstacles that are not just rocks (trees as well).
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Add other moving cars that you're "racing" that continue to move even off screen.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to learn how to code with pygame and research more on collision, as well as what sprites are and how I can use them to my advantage.
